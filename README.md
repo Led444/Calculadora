@@ -2,11 +2,7 @@
 
 Uma calculadora web para realizar operações matemáticas básicas.
 ## Como acessar
-
-- Copie o link (URL) do arquivo HTML.
-- Acesse o [HTML Preview](https://htmlpreview.github.io/).
-- Cole o link no campo indicado e clique em Preview.
-
+[Clique aqui para acessar o projeto](https://led444.github.io/Calculadora/)
 
 ## Tecnologias e serviços utilizados
 - HTML/CSS
